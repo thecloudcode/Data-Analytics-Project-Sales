@@ -1,0 +1,18 @@
+
+1. CustomerID: Unique identifier for each customer. Integer.
+2. Age: Age of the customer. Integer.
+3. Gender: Gender of the customer. Categorical (Male/Female).
+4. Location: Location of the customer (City/Suburb/Rural). Categorical.
+5. ProductCategory: Category of the purchased product (Electronics/Clothing/Home Appliances). Categorical.
+6. PurchaseDate: Date of the purchase. Date.
+7. PurchaseAmount: Amount spent on the purchase. Float.
+8. PaymentMethod: Method of payment (Credit Card/Debit Card/Cash). Categorical.
+9. Quantity: Quantity of the purchased product. Integer.
+10. DiscountPercentage: Discount percentage applied to the purchase. Float.
+11. IsReturned: Whether the purchase was returned or not. Boolean.
+12. Rating: Customer rating for the purchased product. Integer.
+13. IsPromotion: Whether the purchase was made during a promotional period. Boolean.
+14. CustomerSegment: Segment to which the customer belongs (New/Returning). Categorical.
+15. ShippingDuration: Duration of shipping (in days). Integer.
+16. Region: Geographic region of the customer (North/South/East/West). Categorical.
+
